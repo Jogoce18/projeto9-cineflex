@@ -3,9 +3,6 @@
 https://user-images.githubusercontent.com/80592317/169661648-75e91d2d-8dea-4f53-8f40-2d5c67e7550c.mp4
 
 
-
-https://user-images.githubusercontent.com/80592317/169661649-4e466654-b327-401b-91eb-f41f35dc3ef4.mp4
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
