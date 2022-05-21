@@ -1,0 +1,46 @@
+.home h1 {
+    font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #293845;
+    text-align: center;
+    margin-top: 108px;
+    margin-bottom: 33px;
+}
+.movies-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.home background-movie {
+    width: 145px;
+    height: 209px;
+    /* left: 30px;
+    top: 169px; */
+    background: #ffffff;
+    box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 11px;
+}
+.home img {
+    width: 129px;
+    height: 193px;
+}
+
+
+
+.loading gif{
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -100px 0 0 -100px;
+}
+.loading img{
+width: 200px;
+height:200px;
+}

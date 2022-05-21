@@ -1,0 +1,92 @@
+
+.sucess {
+    text-align: center;
+    margin: auto;
+    width: 160px;
+    height: 56px;
+    margin-bottom: 52px;
+    margin-top: 94px;
+}
+.sucess h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #247A6B;
+    margin-top:94px;
+}
+.Information {
+    margin-left: 45px;
+    margin-bottom: 30px;
+}
+.Information p:first-child {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+button {
+width: 225px;
+height: 42px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+background: rgba(232, 131, 58, 1);
+border-radius: 3px;
+border: none;
+margin-top: 62px;
+margin-bottom: 189px; 
+cursor: pointer;
+
+
+}
+.buttonsito {
+    text-align: center;
+    
+}
+.buttonsi{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    background: rgba(232, 131, 58, 1);
+    cursor: pointer;
+    background: linear-gradient(to bottom right, #fa6400, #FF9A5A);
+    border: 0;
+    border-radius: 12px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+.buttonsi:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(255, 153, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+  }
+  
+  .buttonsi:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+  }
+      
+
